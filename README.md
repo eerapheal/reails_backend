@@ -67,8 +67,8 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/eerapheal/reails_backend.git
-[Frontend Link](https://github.com/eerapheal/frontends
+- https://github.com/eerapheal/reails_backend.git
+- [Frontend Link](https://github.com/eerapheal/frontends
 )
 ```
  cd reails_backend
