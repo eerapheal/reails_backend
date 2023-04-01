@@ -21,31 +21,36 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ebube App <a name="about-project"></a>
+# 📖 helloreact_rails App <a name="about-project"></a>
 
 # 📖 Description <a name="Description-Note"></a>
-> Describe your project in 1 or 3 sentences.
+> Describe your project in 1 or 2 sentences.
 
-Booking application
+Hello rails react set up
 
-## Project presentation link
+### Project presentation link
 
 [Presentation of APP](Cooming soom)
 
-# Live Demo Application link
+### Live Demo Application link
 
 [Live Demo](Comming soon)
 
-## 🛠️ Built With <a name="built-with"></a>
+### 🛠️ Built With <a name="built-with"></a>
 
 - Ruby on Rails
 - Postgresql
-- React/Redux
+- Capybera
+- Rspec
+- Cancancan
+- Devise
+- Webpack.
+- React
+- Redux
 
 ### Key Features <a name="key-features"></a>
+Connent rails application with react.
 
-- Sign up new user
-- book appointment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,6 +72,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
 - https://github.com/eerapheal/reails_backend.git
 - [Frontend Link](https://github.com/eerapheal/frontends
 )
@@ -76,11 +82,27 @@ Clone this repository to your desired folder:
 
 
 ### Install
+
+https://github.com/eerapheal/reails_backend.git
+```
+  cd hello_rails_reacts
+```
+
+Clone this repository to your desired folder:
+https://github.com/eerapheal/frontends.git
+```
+  cd frontends
+```
+
+
+### Istall
+
 install this project with:
 ```
   bundle install
   ```
   ```
+
   rails db:create
   ```
   ```
@@ -91,10 +113,6 @@ install this project with:
 To start the application, run the following command
 ```
 rails server
-```
-### Run tests 
-```
-rspec
 ```
 ### Usage
 
@@ -136,6 +154,7 @@ To run the project, run `ruby <filename>` in your terminal
 - Create new Pull Request.
 
 Feel free to check the [issues page](https://github.com/eerapheal/reails_backend/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
