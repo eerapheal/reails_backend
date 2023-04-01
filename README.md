@@ -51,6 +51,7 @@ Hello rails react set up
 ### Key Features <a name="key-features"></a>
 Connent rails application with react.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -71,6 +72,17 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
+- https://github.com/eerapheal/reails_backend.git
+- [Frontend Link](https://github.com/eerapheal/frontends
+)
+```
+ cd reails_backend
+```
+
+
+### Install
+
 https://github.com/eerapheal/reails_backend.git
 ```
   cd hello_rails_reacts
@@ -84,14 +96,13 @@ https://github.com/eerapheal/frontends.git
 
 
 ### Istall
+
 install this project with:
 ```
   bundle install
   ```
   ```
-  yarn install
-  ```
-  ```
+
   rails db:create
   ```
   ```
@@ -142,7 +153,8 @@ To run the project, run `ruby <filename>` in your terminal
 - Push to the branch (git push origin my-new-feature)
 - Create new Pull Request.
 
-Feel free to check the [issues page](https://github.com/eerapheal/hello_rails_reacts/issues).
+Feel free to check the [issues page](https://github.com/eerapheal/reails_backend/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
